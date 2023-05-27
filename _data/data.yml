@@ -228,14 +228,11 @@ education:
     - institution: Hitchin Boys' School
       link:
       date: 2010 - 2017
-      major: A Level
-      degree: AAAA
+      major: A Level / GCSE
       description: |
-        + Maths, Physics, Chemistry, EPQ
-      major: GCSE
-      degree: 14 A*-B
-      description: |
-        + Including English, Maths, French, German
+        + AAAA - Maths, Physics, Chemistry, EPQ
+        + 14 A*-B including English, Maths, French, German
+
 
 certificate:
   show: false
